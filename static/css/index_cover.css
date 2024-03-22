@@ -22,7 +22,8 @@ body {
 }
 
 .cover-container {
-  max-width: 42em;
+	/*这个地方调整主页主体container的宽度*/
+  max-width: 55em;
 }
 
 
